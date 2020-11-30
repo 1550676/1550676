@@ -1,4 +1,10 @@
 ### Hi there 👋
+I am back-end developer from Russia.
+
+- 🔭 I worked as financial manager for the past several years and I didn't like it. 
+- 🌱 Nowadays I'm enjoying to use the Java programming language to build applications.
+- ⚡ I’m currently continue to learn various frameworks and gain hand-on experience.
+- 📫 How to reach me: 1550676@gmail.com.
 
 <!--
 **1550676/1550676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
